@@ -1,0 +1,908 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> F:\V\assignment-aggregate-service\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+26 items
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionDouble.java -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\actions\AggregateActionDouble.class
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionLong.java -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\actions\AggregateActionLong.class
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\IAggregateAction.java -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\actions\IAggregateAction.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateoperations\AggregateActionBigDecimal.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateoperations\AggregateActionDouble.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateoperations\AggregateActionLong.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateoperationservice\AggregateAction.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateoperationtailrecursion\AggregateActionLong$.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateoperationtailrecursion\AggregateActionLong.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateRequest$.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateRequest.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateResponse$.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateResponse.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateService$$anonfun$receive$1.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateService.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateServiceProtocol$.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateServiceProtocol.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\Error$.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\Error.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\Result$.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\Result.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateServiceLauncher$.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateServiceLauncher$delayedInit$body.class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateServiceLauncher.class
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\util\CommonUtils$.class
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> F:\V\assignment-aggregate-service\target\scala-2.12\classes\util\CommonUtils.class
+binary dependencies:
+28 items
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionDouble.java -> C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionLong.java -> C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\IAggregateAction.java -> C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> C:\Users\gauravv2\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.7.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> C:\Users\gauravv2\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.7.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> C:\Users\gauravv2\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.7.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> C:\Users\gauravv2\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.7.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> C:\Users\gauravv2\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.7.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.4.20.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> C:\Users\gauravv2\.ivy2\cache\io.spray\spray-json_2.12\bundles\spray-json_2.12-1.3.4.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> C:\Users\gauravv2\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.7.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.4.20.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-http-core_2.12\jars\akka-http-core_2.12-10.0.11.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-http-spray-json_2.12\jars\akka-http-spray-json_2.12-10.0.11.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-http_2.12\jars\akka-http_2.12-10.0.11.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\jars\akka-stream_2.12-2.4.20.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> C:\Users\gauravv2\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> C:\Users\gauravv2\.ivy2\cache\io.spray\spray-json_2.12\bundles\spray-json_2.12-1.3.4.jar
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> C:\Users\gauravv2\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.7.jar
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> C:\Users\gauravv2\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+15 items
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionDouble.java -> F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionDouble.java
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionLong.java -> F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionLong.java
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\IAggregateAction.java -> F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\IAggregateAction.java
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+5 items
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionDouble.java -> F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\IAggregateAction.java
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionLong.java -> F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\IAggregateAction.java
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala
+inheritance external dependencies:
+0 items
+class names:
+26 items
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionDouble.java -> aggregateservice.actions.AggregateActionDouble
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionLong.java -> aggregateservice.actions.AggregateActionLong
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\IAggregateAction.java -> aggregateservice.actions.IAggregateAction
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> aggregateoperations.AggregateActionBigDecimal
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> aggregateoperations.AggregateActionDouble
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> aggregateoperations.AggregateActionLong
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> aggregateoperationservice.AggregateAction
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> aggregateoperationtailrecursion.AggregateActionLong
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> aggregateoperationtailrecursion.AggregateActionLong$
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateservice.AggregateRequest
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateservice.AggregateRequest$
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateservice.AggregateResponse
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateservice.AggregateResponse$
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateservice.AggregateService
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateservice.AggregateService$$anonfun$receive$1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateservice.AggregateServiceProtocol
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateservice.AggregateServiceProtocol$
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateservice.Error
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateservice.Error$
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateservice.Result
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateservice.Result$
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> aggregateservice.AggregateServiceLauncher
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> aggregateservice.AggregateServiceLauncher$
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> aggregateservice.AggregateServiceLauncher$delayedInit$body
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> util.CommonUtils
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> util.CommonUtils$
+used names:
+648 items
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> /
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> <byname>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> <init>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> A
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> AggregateAction
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> AggregateActionBigDecimal
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Any
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> AnyRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Array
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> ArrayOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> B
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> BigDecimal
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> BigDecimalIsFractional
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Boolean
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> CanBuildFrom
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> ClassTag
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> CommonUtils
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Double
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Function1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Int
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> None
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Nothing
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Numeric
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Object
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Option
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Ordering
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Predef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> Some
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> String
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> T
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> T0
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> That
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> _$4
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> _$7
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> aggregateoperations
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> aggregateoperationservice
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> apply
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> asInstanceOf
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> canBuildFrom
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> filter
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> get
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> getOrElse
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> input
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> int2bigDecimal
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> isEmpty
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> length
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> map
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> matches
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> materializeClassTag
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> math
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> max
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> mean
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> ofRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> orElse
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> package
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> refArrayOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> reflect
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> res
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> split
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> sum
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> sumo
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> trim
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> util
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> values
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> x
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> /
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> <byname>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> <init>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> A
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> AggregateAction
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> AggregateActionDouble
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Any
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> AnyRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Array
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> ArrayOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> B
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Boolean
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> CanBuildFrom
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> ClassTag
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> CommonUtils
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Double
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> DoubleIsFractional
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Function1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Int
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> None
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Nothing
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Numeric
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Object
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Option
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Ordering
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Predef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> Some
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> String
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> StringOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> T
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> T0
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> That
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> _$4
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> _$7
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> aggregateoperations
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> aggregateoperationservice
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> apply
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> asInstanceOf
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> augmentString
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> canBuildFrom
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> doubleArrayOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> filter
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> get
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> getOrElse
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> input
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> isEmpty
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> length
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> map
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> matches
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> materializeClassTag
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> math
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> max
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> mean
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> ofDouble
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> ofRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> orElse
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> package
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> refArrayOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> reflect
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> res
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> split
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> sum
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> sumo
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> toDouble
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> trim
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> util
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> values
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> x
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> /
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> <byname>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> <init>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> A
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> AggregateAction
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> AggregateActionLong
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Any
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> AnyRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Array
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> ArrayOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> B
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Boolean
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> CanBuildFrom
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> ClassTag
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> CommonUtils
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Double
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> DoubleIsFractional
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Function1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Int
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Long
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> LongIsIntegral
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> None
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Nothing
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Numeric
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Object
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Option
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Ordering
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Predef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> Some
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> String
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> StringOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> T
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> T0
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> That
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> _$4
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> _$7
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> aggregateoperations
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> aggregateoperationservice
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> apply
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> asInstanceOf
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> augmentString
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> canBuildFrom
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> doubleArrayOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> filter
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> get
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> getOrElse
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> input
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> isEmpty
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> length
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> longArrayOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> map
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> matches
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> materializeClassTag
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> math
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> max
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> mean
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> ofDouble
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> ofLong
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> ofRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> orElse
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> package
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> refArrayOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> reflect
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> res
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> split
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> sum
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> sumo
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> toDouble
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> toLong
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> trim
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> util
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> values
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> x
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> Any
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> AnyRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> Option
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> Predef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> String
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> aggregateoperationservice
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> +
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> /
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> ::
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> <byname>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> <init>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> ==
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> A
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> AggregateActionLong
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Any
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> AnyRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Array
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> ArrayOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> B
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Boolean
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> CanBuildFrom
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> ClassTag
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> CommonUtils
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Double
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> DoubleIsFractional
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Function1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Int
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> List
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Long
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> LongIsIntegral
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> MatchError
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Nil
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> None
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Nothing
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Numeric
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Object
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Option
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Ordering
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Predef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Some
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> String
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> StringOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> T
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> T0
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> That
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> Unit
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> _$4
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> _$7
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> aggregateoperationtailrecursion
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> annotation
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> apply
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> asInstanceOf
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> augmentString
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> canBuildFrom
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> collection
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> currentSum
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> doubleArrayOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> filter
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> get
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> getOrElse
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> head
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> immutable
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> input
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> isEmpty
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> isInstanceOf
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> length
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> list
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> longArrayOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> map
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> matches
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> materializeClassTag
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> math
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> max
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> mean
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> ofDouble
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> ofLong
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> ofRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> orElse
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> package
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> println
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> refArrayOps
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> reflect
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> res
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> split
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> sum
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> sum2
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> sumWithAccumulator
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> sumo
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> tailrec
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> toDouble
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> toList
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> toLong
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> trim
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> util
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> values
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> x
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> xs
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> !
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> &&
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> <init>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> <repeated>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> ==
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> A
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> A1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> AbstractFunction1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> AbstractFunction2
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> AbstractFunction3
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> AbstractPartialFunction
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Actor
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> ActorContext
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> ActorLogging
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> ActorRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> ActorSystem
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> AggregateAction
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> AggregateActionBigDecimal
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> AggregateActionDouble
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> AggregateActionLong
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> AggregateRequest
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> AggregateResponse
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> AggregateService
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> AggregateServiceProtocol
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Any
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> AnyRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> B1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Boolean
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> ClassManifest
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> ClassManifestFactory
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> DefaultJsonProtocol
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Error
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Function1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Function2
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Function3
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> IndexOutOfBoundsException
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Int
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Iterator
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> JF
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> LoggingAdapter
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> None
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Nothing
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Object
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Option
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> P1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> P2
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> P3
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Predef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Product
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Result
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> RootJsonFormat
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> ScalaActorRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> ScalaRunTime
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Serializable
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Some
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> String
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> StringContext
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> StringJsonFormat
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> T
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> T0
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> T1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> T2
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> T3
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Tuple2
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Tuple3
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> Unit
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> _hashCode
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> _root_
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> _toString
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> actor
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> actorRef2Scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateResponseFormat
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateoperations
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateoperationservice
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> aggregateservice
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> akka
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> asInstanceOf
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> bigDecimalAction
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> classType
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> context
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> debug
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> doAggregate
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> doubleAction
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> eq
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> error
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> errorFormat
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> function
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> info
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> isInstanceOf
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> json
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> jsonFormat1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> jsonFormat2
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> jsonFormat3
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> log
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> longAction
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> max
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> mean
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> message
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> optionFormat
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> package
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> reflect
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> requestFormat
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> result
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> resultFormat
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> runtime
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> s
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> self
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> sender
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> spray
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> stop
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> sum
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> system
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> toString
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> typedProductIterator
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> unchecked
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> valueType
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> values
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> ||
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> <byname>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> <init>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> <refinement>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> <repeated>
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ?
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> A
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Actor
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ActorMaterializer
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ActorMaterializerSettings
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ActorRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ActorRefFactory
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ActorSystem
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> AggregateRequest
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> AggregateResponse
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> AggregateService
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> AggregateServiceLauncher
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> AggregateServiceProtocol
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Any
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> App
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ApplyConverter
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> AskableActorRef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Boolean
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Class
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ClassTag
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Config
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ConfigFactory
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ConnectionContext
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Directive
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Directive0
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Directive1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Directives
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> DurationInt
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ExceptionHandler
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ExecutionContext
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ExecutionContextExecutor
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Failure
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> FiniteDuration
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Flow
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> FromEntityUnmarshaller
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> FromMessageUnmarshaller
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> FromRequestUnmarshaller
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Function1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Future
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Http
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> HttpEntity
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> HttpExt
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> HttpHeader
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> HttpProtocol
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> HttpRequest
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> HttpResponse
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> In
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Int
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> InternalServerError
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> JsonPrinter
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> L
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> LoggingAdapter
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Marshaller
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> MatchError
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Materializer
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> NotUsed
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Nothing
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Object
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Option
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ParserSettings
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Predef
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Props
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> RejectionHandler
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> RequestContext
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ResponseEntity
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> RootJsonFormat
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> RootJsonReader
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> RootJsonWriter
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Route
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> RouteResult
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> RoutingLog
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> RoutingSettings
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> S
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Seq
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ServerBinding
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ServerError
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ServerSettings
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> SprayJsonSupport
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> StandardRoute
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> StatusCode
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> StatusCodes
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Strict
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> String
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> StringContext
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Success
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> T
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> T0
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> T1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> TRM
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Terminated
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Throwable
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Timeout
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ToEntityMarshaller
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ToResponseMarshallable
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ToResponseMarshaller
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Try
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Tuple1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> U
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Unit
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> Unmarshaller
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> _$7
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> actor
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> actorOf
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> addByNameNullaryApply
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> addDirectiveApply
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> address
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> aggregateResponseFormat
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> aggregateService
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> aggregateservice
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> akka
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> apply
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> as
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> asInstanceOf
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> ask
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> bindAndHandle
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> com
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> complete
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> concurrent
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> config
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> default
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> dispatcher
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> duration
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> entity
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> exception
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> executionContext
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> f
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> fromActorSystem
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> fromResponse
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> getInt
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> getMessage
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> getString
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> hac1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> host
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> http
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> isInstanceOf
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> liftMarshaller
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> load
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> mapTo
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> marshallers
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> marshalling
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> materializeClassTag
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> materializer
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> messageUnmarshallerFromEntityUnmarshaller
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> model
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> onComplete
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> package
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> pattern
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> port
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> post
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> println
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> qual$1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> qual$2
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> r
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> reflect
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> request
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> requestFormat
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> result
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> route
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> route2HandlerFlow
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> s
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> scala
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> scaladsl
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> seconds
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> server
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> settings
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> sprayJsonMarshaller
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> sprayJsonUnmarshaller
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> sprayjson
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> stream
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> system
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> t
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> terminate
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> timeout
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> typesafe
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> unmarshalling
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> util
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> value
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$1
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$10
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$11
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$12
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$13
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$14
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$15
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$16
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$17
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$18
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$19
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$2
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$20
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$21
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$3
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$4
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$5
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$6
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$7
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$8
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> x$9
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> <init>
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> ==
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> Any
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> AnyRef
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> Boolean
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> CommonUtils
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> Object
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> Predef
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> String
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> input
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> isEmpty
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> scala
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> trim
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> util
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> ||
+product stamps:
+26 items
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateoperations\AggregateActionBigDecimal.class -> lastModified(1556481052857)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateoperations\AggregateActionDouble.class -> lastModified(1556481052896)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateoperations\AggregateActionLong.class -> lastModified(1556481052933)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateoperationservice\AggregateAction.class -> lastModified(1556481052940)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateoperationtailrecursion\AggregateActionLong$.class -> lastModified(1556481053023)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateoperationtailrecursion\AggregateActionLong.class -> lastModified(1556481053024)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\actions\AggregateActionDouble.class -> lastModified(1556481054182)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\actions\AggregateActionLong.class -> lastModified(1556481054198)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\actions\IAggregateAction.class -> lastModified(1556481054186)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateRequest$.class -> lastModified(1556481053130)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateRequest.class -> lastModified(1556481053125)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateResponse$.class -> lastModified(1556481053171)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateResponse.class -> lastModified(1556481053167)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateService$$anonfun$receive$1.class -> lastModified(1556481053188)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateService.class -> lastModified(1556481053185)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateServiceLauncher$.class -> lastModified(1556481053246)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateServiceLauncher$delayedInit$body.class -> lastModified(1556481053254)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateServiceLauncher.class -> lastModified(1556481053250)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateServiceProtocol$.class -> lastModified(1556481053174)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\AggregateServiceProtocol.class -> lastModified(1556481053178)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\Error$.class -> lastModified(1556481053161)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\Error.class -> lastModified(1556481053151)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\Result$.class -> lastModified(1556481053143)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\aggregateservice\Result.class -> lastModified(1556481053140)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\util\CommonUtils$.class -> lastModified(1556481053259)
+F:\V\assignment-aggregate-service\target\scala-2.12\classes\util\CommonUtils.class -> lastModified(1556481053262)
+source stamps:
+11 items
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionDouble.java -> hash(271438bc964069a00b501dee35875089cdbe2649)
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionLong.java -> hash(dd14d360e275caa1b75add5cab35c9a17681bf3b)
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\IAggregateAction.java -> hash(89ed093e84c0bf56336304bcad34574df6815f42)
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> hash(d0beb8382c78a94f835ec156f5acbbc3f82c4b70)
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> hash(45301dc40c3b9ae23950bcb63ea13fcfee36cba2)
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> hash(e4e2302fb2c536d332c7526be130085de1c721f3)
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> hash(cc28be16c3610897921ecc3e2147db7a83a31002)
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> hash(94ff2fd924a49f13d19c1d2b905fb0a88dfdd97e)
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> hash(56d261b7a7a351aafccf3061a07902b7bdcfd863)
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> hash(240ad77fe8436d3ccca5b9f2a301bed60736bf87)
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> hash(f45f5bb03f0844730334c59cc6b2a55bc03a2b92)
+binary stamps:
+9 items
+C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar -> lastModified(1554123312812)
+C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.4.20.jar -> lastModified(1502383998000)
+C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-http-core_2.12\jars\akka-http-core_2.12-10.0.11.jar -> lastModified(1512119057000)
+C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-http-spray-json_2.12\jars\akka-http-spray-json_2.12-10.0.11.jar -> lastModified(1512119106000)
+C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-http_2.12\jars\akka-http_2.12-10.0.11.jar -> lastModified(1512119093000)
+C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\jars\akka-stream_2.12-2.4.20.jar -> lastModified(1502384073000)
+C:\Users\gauravv2\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar -> lastModified(1431099969000)
+C:\Users\gauravv2\.ivy2\cache\io.spray\spray-json_2.12\bundles\spray-json_2.12-1.3.4.jar -> lastModified(1508828031000)
+C:\Users\gauravv2\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.7.jar -> lastModified(1538037357000)
+class names:
+9 items
+C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar -> java.lang.Object
+C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.4.20.jar -> akka.actor.Actor
+C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-http-core_2.12\jars\akka-http-core_2.12-10.0.11.jar -> akka.http.scaladsl.model.HttpResponse$
+C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-http-spray-json_2.12\jars\akka-http-spray-json_2.12-10.0.11.jar -> akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
+C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-http_2.12\jars\akka-http_2.12-10.0.11.jar -> akka.http.scaladsl.server.RouteResult
+C:\Users\gauravv2\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\jars\akka-stream_2.12-2.4.20.jar -> akka.stream.Materializer
+C:\Users\gauravv2\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar -> com.typesafe.config.ConfigFactory
+C:\Users\gauravv2\.ivy2\cache\io.spray\spray-json_2.12\bundles\spray-json_2.12-1.3.4.jar -> spray.json.RootJsonReader
+C:\Users\gauravv2\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.7.jar -> scala.Boolean
+internal apis:
+11 items
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionDouble.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwyXfv/wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAMc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxYd053QABm5vdGlmeXNxAH4ADAuNcLF0AAR3YWl0c3EAfgAMg0YLE3QABmVxdWFsc3NxAH4ADK3U5850AARtZWFuc3EAfgAMGarhD3QAFUFnZ3JlZ2F0ZUFjdGlvbkRvdWJsZXNxAH4ADGQ+6890AAlub3RpZnlBbGxzcQB+AAzlQVRudAAGPGluaXQ+c3EAfgAM6Y7rwXQAA21heHNxAH4ADImg5Tp0AAh0b1N0cmluZ3NxAH4ADIOUMUh0AAhnZXRDbGFzc3NxAH4ADKqPC1F0AANzdW1zcQB+AAyT6fP3dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgAveHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAuYWdncmVnYXRlc2VydmljZS5hY3Rpb25zLkFnZ3JlZ2F0ZUFjdGlvbkRvdWJsZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLnRocm93c3NyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBIc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AC9MAAlpbmhlcml0ZWRxAH4AL0wAB3BhcmVudHNxAH4AL3hxAH4ATXNxAH4ASHVxAH4AKgAAAABzcQB+AEh1cQB+ACoAAAAAc3EAfgBIdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBMdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBMc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBldAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBmc3EAfgBZdAAQSUFnZ3JlZ2F0ZUFjdGlvbnNxAH4AXXNxAH4AYHVxAH4AYwAAAANzcQB+AGV0ABBhZ2dyZWdhdGVzZXJ2aWNlc3EAfgBldAAHYWN0aW9uc3EAfgBsc3EAfgAscQB+ADlxAH4AO3EAfgA9cQB+AD5xAH4AQH5xAH4AQXQABk1vZHVsZXVxAH4ARQAAAABzcQB+AEhxAH4ATnNxAH4ASHNxAH4AUHNxAH4ASHVxAH4AKgAAAABzcQB+AEh1cQB+ACoAAAAAc3EAfgBIdXEAfgBXAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAGGFnZ3JlZ2F0ZXNlcnZpY2UuYWN0aW9uc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABamV/6511cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA7RjpcVlxhc3NpZ25tZW50LWFnZ3JlZ2F0ZS1zZXJ2aWNlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQnFDi8lkBpoAtQHe41h1CJzb4mSQ==
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionLong.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwMiy87gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAMc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwCPJ6tnQABm5vdGlmeXNxAH4ADOYVq5V0AAR3YWl0c3EAfgAMYHmIO3QABmVxdWFsc3NxAH4ADJitloh0AARtZWFuc3EAfgAMaStyxHQAE0FnZ3JlZ2F0ZUFjdGlvbkxvbmdzcQB+AAzDWPP5dAAJbm90aWZ5QWxsc3EAfgAMPvg5WnQABjxpbml0PnNxAH4ADEVZFmJ0AANtYXhzcQB+AAz7CSyHdAAIdG9TdHJpbmdzcQB+AAwaX+hhdAAIZ2V0Q2xhc3NzcQB+AAyNUtOqdAADc3Vtc3EAfgAM5rJy5HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AL3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQALGFnZ3JlZ2F0ZXNlcnZpY2UuYWN0aW9ucy5BZ2dyZWdhdGVBY3Rpb25Mb25ndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AEhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AL0wACWluaGVyaXRlZHEAfgAvTAAHcGFyZW50c3EAfgAveHEAfgBNc3EAfgBIdXEAfgAqAAAAAHNxAH4ASHVxAH4AKgAAAABzcQB+AEh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AEx0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AExzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AGV0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AGZzcQB+AFl0ABBJQWdncmVnYXRlQWN0aW9uc3EAfgBdc3EAfgBgdXEAfgBjAAAAA3NxAH4AZXQAEGFnZ3JlZ2F0ZXNlcnZpY2VzcQB+AGV0AAdhY3Rpb25zcQB+AGxzcQB+ACxxAH4AOXEAfgA7cQB+AD1xAH4APnEAfgBAfnEAfgBBdAAGTW9kdWxldXEAfgBFAAAAAHNxAH4ASHEAfgBOc3EAfgBIc3EAfgBQc3EAfgBIdXEAfgAqAAAAAHNxAH4ASHVxAH4AKgAAAABzcQB+AEh1cQB+AFcAAAAAdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAYYWdncmVnYXRlc2VydmljZS5hY3Rpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFqZX/rnXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADtGOlxWXGFzc2lnbm1lbnQtYWdncmVnYXRlLXNlcnZpY2VcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFN0U02Didcqht1rdXKs1yaF2gb87
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\IAggregateAction.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwbrLcLgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAEc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtBJT+nQABG1lYW5zcQB+AAzwH/TJdAADbWF4c3EAfgAM+qg9P3QAEElBZ2dyZWdhdGVBY3Rpb25zcQB+AAxRhEUYdAADc3Vtc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AH3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQAKWFnZ3JlZ2F0ZXNlcnZpY2UuYWN0aW9ucy5JQWdncmVnYXRlQWN0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ADdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AH0wACWluaGVyaXRlZHEAfgAfTAAHcGFyZW50c3EAfgAfeHEAfgA8c3EAfgA3dXEAfgAaAAAAAHNxAH4AN3VxAH4AGgAAAABzcQB+ADd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAHNxAH4AHHEAfgApcQB+ACtxAH4ALXEAfgAucQB+ADB+cQB+ADF0AAZNb2R1bGV1cQB+ADUAAAAAc3EAfgA3cQB+AD1zcQB+ADdzcQB+AD9zcQB+ADd1cQB+ABoAAAAAc3EAfgA3dXEAfgAaAAAAAHNxAH4AN3VxAH4ARgAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABhhZ2dyZWdhdGVzZXJ2aWNlLmFjdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWplf+uddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAO0Y6XFZcYXNzaWdubWVudC1hZ2dyZWdhdGUtc2VydmljZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUie0JPoTAv1YzYwS8rTRXTfaBX0I=
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwYFnPNwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw88GVVHQABm5vdGlmeXNxAH4ADAvTpwR0AAR3YWl0c3EAfgAMXI1PZnQADSRhc0luc3RhbmNlT2ZzcQB+AAzrFQVhdAAGZXF1YWxzc3EAfgAM13S7onQADGFzSW5zdGFuY2VPZnNxAH4ADP+nFdl0AAxzeW5jaHJvbml6ZWRzcQB+AAxBdOdCdAANJGlzSW5zdGFuY2VPZnNxAH4ADBcngXJ0AARtZWFuc3EAfgAMZbmernQACW5vdGlmeUFsbHNxAH4ADAIPVqh0AAxpc0luc3RhbmNlT2ZzcQB+AAyyIp/3dAAGPGluaXQ+c3EAfgAM83LsmXQAA21heHNxAH4ADI2zEQ90AAI9PXNxAH4ADDyN8Ft0AAVjbG9uZXNxAH4ADIprCjN0AAh0b1N0cmluZ3NxAH4ADDHrdbJ0AAIhPXNxAH4ADHdsaYd0AAhnZXRDbGFzc3NxAH4ADIz05/J0ABlBZ2dyZWdhdGVBY3Rpb25CaWdEZWNpbWFsc3EAfgAMZgvR/HQAAm5lc3EAfgAMJW+//3QAAmVxc3EAfgAM5sBMZHQAA3N1bXNxAH4ADE/kVnl0AAIjI3NxAH4ADNM1nl90AAhmaW5hbGl6ZXNxAH4ADAeJyRF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AC1hZ2dyZWdhdGVvcGVyYXRpb25zLkFnZ3JlZ2F0ZUFjdGlvbkJpZ0RlY2ltYWx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABJqYXZhLmxhbmcuT3ZlcnJpZGV0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGZzcQB+AGF1cQB+AEIAAAAAc3EAfgBhdXEAfgBCAAAAAHNxAH4AYXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQAD0FnZ3JlZ2F0ZUFjdGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAZYWdncmVnYXRlb3BlcmF0aW9uc2VydmljZXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAAGT2JqZWN0c3EAfgB2c3EAfgB5dXEAfgB8AAAAA3NxAH4AfnQABGphdmFzcQB+AH50AARsYW5ncQB+AINzcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4Ag3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAE2FnZ3JlZ2F0ZW9wZXJhdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWplf+uddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAO0Y6XFZcYXNzaWdubWVudC1hZ2dyZWdhdGUtc2VydmljZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU0L64OCx4qU+DXsFW9ay7w/gsS3A=
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwGh/WngAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwwokUXnQABm5vdGlmeXNxAH4ADN0VpsF0AAR3YWl0c3EAfgAMZeG43HQADSRhc0luc3RhbmNlT2ZzcQB+AAxBckWRdAAGZXF1YWxzc3EAfgAMYAbfAXQADGFzSW5zdGFuY2VPZnNxAH4ADFIh4HZ0AAxzeW5jaHJvbml6ZWRzcQB+AAyVIHnPdAANJGlzSW5zdGFuY2VPZnNxAH4ADGb1/yN0AARtZWFuc3EAfgAMnyO70XQAFUFnZ3JlZ2F0ZUFjdGlvbkRvdWJsZXNxAH4ADD0ppcR0AAlub3RpZnlBbGxzcQB+AAylEOnTdAAMaXNJbnN0YW5jZU9mc3EAfgAMXqajK3QABjxpbml0PnNxAH4ADDDtLK50AANtYXhzcQB+AAwwu77SdAACPT1zcQB+AAzKT7igdAAFY2xvbmVzcQB+AAzUOBkTdAAIdG9TdHJpbmdzcQB+AAzd9en5dAACIT1zcQB+AAxspv8gdAAIZ2V0Q2xhc3NzcQB+AAz+OuVOdAACbmVzcQB+AAzMX45udAACZXFzcQB+AAzLTrpIdAADc3Vtc3EAfgAMN4S2TXQAAiMjc3EAfgAMHXIsq3QACGZpbmFsaXplc3EAfgAMaokbiHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAKWFnZ3JlZ2F0ZW9wZXJhdGlvbnMuQWdncmVnYXRlQWN0aW9uRG91YmxldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAASamF2YS5sYW5nLk92ZXJyaWRldAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBmc3EAfgBhdXEAfgBCAAAAAHNxAH4AYXVxAH4AQgAAAABzcQB+AGF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AA9BZ2dyZWdhdGVBY3Rpb25zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAGWFnZ3JlZ2F0ZW9wZXJhdGlvbnNlcnZpY2VzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQABk9iamVjdHNxAH4AdnNxAH4AeXVxAH4AfAAAAANzcQB+AH50AARqYXZhc3EAfgB+dAAEbGFuZ3EAfgCDc3EAfgBydAADQW55c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABNhZ2dyZWdhdGVvcGVyYXRpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFqZX/rnXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADtGOlxWXGFzc2lnbm1lbnQtYWdncmVnYXRlLXNlcnZpY2VcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEUwHcQMO5riOVC8tj6hP8/uNsui
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwBDnsqgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwr0JehXQABm5vdGlmeXNxAH4ADIV5diJ0AAR3YWl0c3EAfgAMsFvYinQADSRhc0luc3RhbmNlT2ZzcQB+AAx8Jj3vdAAGZXF1YWxzc3EAfgAM505+wnQADGFzSW5zdGFuY2VPZnNxAH4ADADluZR0AAxzeW5jaHJvbml6ZWRzcQB+AAyPV2XddAANJGlzSW5zdGFuY2VPZnNxAH4ADO1Gl250AARtZWFuc3EAfgAM5oybtHQAE0FnZ3JlZ2F0ZUFjdGlvbkxvbmdzcQB+AAxUTGO/dAAJbm90aWZ5QWxsc3EAfgAMyOZIAnQADGlzSW5zdGFuY2VPZnNxAH4ADKBSxj90AAY8aW5pdD5zcQB+AAw/5AymdAADbWF4c3EAfgAMhJgcMnQAAj09c3EAfgAM1525UnQABWNsb25lc3EAfgAMHAf5HHQACHRvU3RyaW5nc3EAfgAMVP37WnQAAiE9c3EAfgAMns9QlHQACGdldENsYXNzc3EAfgAMajnMnnQAAm5lc3EAfgAMjuo2I3QAAmVxc3EAfgAMcFzJG3QAA3N1bXNxAH4ADKImKuZ0AAIjI3NxAH4ADKm4J8J0AAhmaW5hbGl6ZXNxAH4ADKdvC8R0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACdhZ2dyZWdhdGVvcGVyYXRpb25zLkFnZ3JlZ2F0ZUFjdGlvbkxvbmd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABJqYXZhLmxhbmcuT3ZlcnJpZGV0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGZzcQB+AGF1cQB+AEIAAAAAc3EAfgBhdXEAfgBCAAAAAHNxAH4AYXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQAD0FnZ3JlZ2F0ZUFjdGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAZYWdncmVnYXRlb3BlcmF0aW9uc2VydmljZXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAAGT2JqZWN0c3EAfgB2c3EAfgB5dXEAfgB8AAAAA3NxAH4AfnQABGphdmFzcQB+AH50AARsYW5ncQB+AINzcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4Ag3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAE2FnZ3JlZ2F0ZW9wZXJhdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWplf+uddXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAO0Y6XFZcYXNzaWdubWVudC1hZ2dyZWdhdGUtc2VydmljZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU5OIwL7LFNtMyx1Jr4TAIXeHHIfM=
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwGjyRlwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwg1PTgHQABm5vdGlmeXNxAH4ADCZMwbR0AAR3YWl0c3EAfgAMp6ZUmXQADSRhc0luc3RhbmNlT2ZzcQB+AAw4kWswdAAGZXF1YWxzc3EAfgAM5j9gmHQADGFzSW5zdGFuY2VPZnNxAH4ADExGBnB0AAxzeW5jaHJvbml6ZWRzcQB+AAxmOXu2dAANJGlzSW5zdGFuY2VPZnNxAH4ADOtz0Kt0AARtZWFuc3EAfgAMO1YjxHQACW5vdGlmeUFsbHNxAH4ADOg+EPN0AAxpc0luc3RhbmNlT2ZzcQB+AAwpu5D4dAADbWF4c3EAfgAMGU0UmXQAAj09c3EAfgAMMiQx73QABWNsb25lc3EAfgAMzhOSbHQACHRvU3RyaW5nc3EAfgAMNFyM8nQAAiE9c3EAfgAMO+dfI3QACGdldENsYXNzc3EAfgAM3IbjUHQAD0FnZ3JlZ2F0ZUFjdGlvbnNxAH4ADIkyiGB0AAJuZXNxAH4ADBu9ITJ0AAJlcXNxAH4ADBOAA4p0AANzdW1zcQB+AAx/OOlCdAACIyNzcQB+AAwR1w8WdAAIZmluYWxpemVzcQB+AAzU9Ha6dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAApYWdncmVnYXRlb3BlcmF0aW9uc2VydmljZS5BZ2dyZWdhdGVBY3Rpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGNzcQB+AF51cQB+AEAAAAAAc3EAfgBedXEAfgBAAAAAAHNxAH4AXnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ae3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfHNxAH4Ab3QAA0FueXNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHt0AAVzY2FsYXEAfgCCdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAZYWdncmVnYXRlb3BlcmF0aW9uc2VydmljZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABamV/6511cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA7RjpcVlxhc3NpZ25tZW50LWFnZ3JlZ2F0ZS1zZXJ2aWNlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTMKL4Ww2EIl5IezD4hR9t6g6MQAg==
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwrIV5qAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw7JfPVXQABm5vdGlmeXNxAH4ADLHTeap0AAR3YWl0c3EAfgAMUyIutXQADSRhc0luc3RhbmNlT2ZzcQB+AAznSxfKdAAGZXF1YWxzc3EAfgAM93MTS3QADGFzSW5zdGFuY2VPZnNxAH4ADCQVK0R0AAxzeW5jaHJvbml6ZWRzcQB+AAxUJRGvdAANJGlzSW5zdGFuY2VPZnNxAH4ADEIFIAR0AARtZWFuc3EAfgAM5e1hd3QABHN1bTJzcQB+AAx69PqndAATQWdncmVnYXRlQWN0aW9uTG9uZ3NxAH4ADOfgdLF0AAlub3RpZnlBbGxzcQB+AAwUbaAjdAAMaXNJbnN0YW5jZU9mc3EAfgAMtmdrbHQAA21heHNxAH4ADExxzet0AAI9PXNxAH4ADKRjNGp0AAVjbG9uZXNxAH4ADHYXtQl0AAh0b1N0cmluZ3NxAH4ADJDV5Gd0AAIhPXNxAH4ADAZQhAN0AAhnZXRDbGFzc3NxAH4ADNoTQ8J0AAJuZXNxAH4ADIri5bx0AAJlcXNxAH4ADP5b8kN0AANzdW1zcQB+AAwJmctMdAACIyNzcQB+AAxd6PLPdAAIZmluYWxpemVzcQB+AAw734KgdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAzYWdncmVnYXRlb3BlcmF0aW9udGFpbHJlY3Vyc2lvbi5BZ2dyZWdhdGVBY3Rpb25Mb25ndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEmphdmEubGFuZy5PdmVycmlkZXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBhc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZnNxAH4AYXVxAH4AQgAAAABzcQB+AGF1cQB+AEIAAAAAc3EAfgBhdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBldAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBlc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB+dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAADQW55c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnQABXNjYWxhcQB+AIV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AB9hZ2dyZWdhdGVvcGVyYXRpb250YWlscmVjdXJzaW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFqZX/rnXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADtGOlxWXGFzc2lnbm1lbnQtYWdncmVnYXRlLXNlcnZpY2VcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJT/L9kkpJ8T0ZwdK5BfsKiN/dl+
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwrtj3DgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAdzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDIFgWIdAAMcmVzdWx0Rm9ybWF0c3EAfgALMmATlHQABnN5c3RlbXNxAH4AC2ODcSt0AA1yZXF1ZXN0Rm9ybWF0c3EAfgAL28y3b3QAB2NvbnRleHRzcQB+AAunWlcddAAEc2VsZnNxAH4AC5fNQTl0AAtlcnJvckZvcm1hdHNxAH4AC1z1gTR0ABdhZ2dyZWdhdGVSZXNwb25zZUZvcm1hdHVxAH4ACQAAADpzcQB+AAteNuUZdAAGbm90aWZ5c3EAfgALL8BFt3QAB1JlY2VpdmVzcQB+AAt/FSqpdAAEd2FpdHNxAH4AC0BH1Wd0AA5jb3B5JGRlZmF1bHQkMnNxAH4ACxAneul0AA0kYXNJbnN0YW5jZU9mc3EAfgALN6CT/HQAEEFnZ3JlZ2F0ZVNlcnZpY2VzcQB+AAs/Gt5OdAAMcHJvZHVjdEFyaXR5c3EAfgALIOHJ3nQABmVxdWFsc3NxAH4AC/kXtsh0ABBBZ2dyZWdhdGVSZXF1ZXN0c3EAfgALmJ5YV3QABUVycm9yc3EAfgALU1pbu3QAEUFnZ3JlZ2F0ZVJlc3BvbnNlc3EAfgALZg6sYXQADGFzSW5zdGFuY2VPZnNxAH4AC/YlZox0AAZyZXN1bHRzcQB+AAuWpak7dAAJdmFsdWVUeXBlc3EAfgALVM9JYXQADHN5bmNocm9uaXplZHNxAH4AC0SWY0Z0AA0kaXNJbnN0YW5jZU9mc3EAfgALuB1clXQAB3JlY2VpdmVzcQB+AAtvzHgWdAAKcHJlUmVzdGFydHNxAH4ACyIbs010AA1hcm91bmRSZWNlaXZlc3EAfgALMb0frnQACGNhbkVxdWFsc3EAfgALZlQ70nQAC3Bvc3RSZXN0YXJ0c3EAfgALBoblWnQACHBvc3RTdG9wc3EAfgALo28r2HQADXByb2R1Y3RQcmVmaXhzcQB+AAtHo0YfdAAJbm90aWZ5QWxsc3EAfgALGx2vxnQAGEFnZ3JlZ2F0ZVNlcnZpY2VQcm90b2NvbHNxAH4AC+cEgbd0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC0euSXZ0AAxpc0luc3RhbmNlT2ZzcQB+AAvUL3lfdAALZG9BZ2dyZWdhdGVzcQB+AAs9BnzIdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC5Sygdp0AA5hcm91bmRQb3N0U3RvcHNxAH4AC8ahVut0AAY8aW5pdD5zcQB+AAuR+3BCdAAIcHJlU3RhcnRzcQB+AAvcCCdhdAAJdW5oYW5kbGVkc3EAfgALRDwr2HQABWVycm9yc3EAfgAL1An+C3QAAj09c3EAfgAL79qXJXQABWNsb25lc3EAfgALZ6pvyXQACGZ1bmN0aW9uc3EAfgALwqM5B3QABiRpbml0JHNxAH4ACyY2qOB0AA5jb3B5JGRlZmF1bHQkM3NxAH4AC3LikcB0AARjb3B5c3EAfgALnfiEZ3QABnNlbmRlcnNxAH4ACweUNxF0AAZ2YWx1ZXNzcQB+AAtWONhydAAHbWVzc2FnZXNxAH4ACzlZ2Sl0AAh0b1N0cmluZ3NxAH4ACx/exdZ0AAIhPXNxAH4AC8dsUQR0AAhnZXRDbGFzc3NxAH4ACyjL2F50AA5jb3B5JGRlZmF1bHQkMXNxAH4AC8wMFsF0AAZSZXN1bHRzcQB+AAs7gH5jdAACbmVzcQB+AAuibFA0dAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALDg48wnQAAmVxc3EAfgALXrIi3XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACzMhVUR0AANsb2dzcQB+AAvRmectdAACIyNzcQB+AAtluVnNdAAIZmluYWxpemVzcQB+AAt7bRNVdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAu9RJJkdAAIaGFzaENvZGVzcQB+AAu0blKjdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAGc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAEdAAhYWdncmVnYXRlc2VydmljZS5BZ2dyZWdhdGVSZXF1ZXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ALJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AmUwACWluaGVyaXRlZHEAfgCZTAAHcGFyZW50c3EAfgCZeHEAfgC3c3EAfgCydXEAfgCUAAAAAHNxAH4AsnVxAH4AlAAAAABzcQB+ALJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALZ0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ANBzcQB+AMNxAH4AxnNxAH4Ax3NxAH4AynVxAH4AzQAAAANzcQB+AM90AARqYXZhc3EAfgDPdAACaW9xAH4A1HNxAH4Aw3QAB1Byb2R1Y3RxAH4AyXNxAH4Aw3QABkVxdWFsc3EAfgDJc3EAfgDDdAAGT2JqZWN0c3EAfgDHc3EAfgDKdXEAfgDNAAAAA3NxAH4Az3EAfgDac3EAfgDPdAAEbGFuZ3EAfgDUc3EAfgDDdAADQW55cQB+AMlzcQB+AJZxAH4Ao3VxAH4ApAAAAABzcQB+AKYEdAAXYWdncmVnYXRlc2VydmljZS5SZXN1bHR1cQB+AKkAAAAAcQB+AK11cQB+AK8AAAABdAAMc2NhbGEubmF0aXZlc3EAfgCycQB+ALhzcQB+ALJzcQB+ALpzcQB+ALJ1cQB+AJQAAAAAc3EAfgCydXEAfgCUAAAAAHNxAH4AsnVxAH4AwQAAAAZzcQB+AMNxAH4AxnNxAH4Ax3NxAH4AynVxAH4AzQAAAAJzcQB+AM9xAH4A0nEAfgDUc3EAfgDDcQB+AMZzcQB+AMdzcQB+AMp1cQB+AM0AAAADc3EAfgDPcQB+ANpzcQB+AM90AAJpb3EAfgDUc3EAfgDDcQB+AN5xAH4A/HNxAH4Aw3QABkVxdWFsc3EAfgD8c3EAfgDDcQB+AOJzcQB+AMdzcQB+AMp1cQB+AM0AAAADc3EAfgDPcQB+ANpzcQB+AM9xAH4A6HEAfgDUc3EAfgDDcQB+AOpxAH4A/HNxAH4AlnEAfgCjdXEAfgCkAAAAAHNxAH4ApgR0ABZhZ2dyZWdhdGVzZXJ2aWNlLkVycm9ydXEAfgCpAAAAAHEAfgCtdXEAfgCvAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4AsnEAfgC4c3EAfgCyc3EAfgC6c3EAfgCydXEAfgCUAAAAAHNxAH4AsnVxAH4AlAAAAABzcQB+ALJ1cQB+AMEAAAAGc3EAfgDDcQB+AMZzcQB+AMdzcQB+AMp1cQB+AM0AAAACc3EAfgDPcQB+ANJxAH4A1HNxAH4Aw3EAfgDGc3EAfgDHc3EAfgDKdXEAfgDNAAAAA3NxAH4Az3EAfgDac3EAfgDPdAACaW9xAH4A1HNxAH4Aw3EAfgDecQB+ASJzcQB+AMN0AAZFcXVhbHNxAH4BInNxAH4Aw3EAfgDic3EAfgDHc3EAfgDKdXEAfgDNAAAAA3NxAH4Az3EAfgDac3EAfgDPcQB+AOhxAH4A1HNxAH4Aw3EAfgDqcQB+ASJzcQB+AJZxAH4Ao3VxAH4ApAAAAABzcQB+AKYEdAAiYWdncmVnYXRlc2VydmljZS5BZ2dyZWdhdGVSZXNwb25zZXVxAH4AqQAAAABxAH4ArXVxAH4ArwAAAAF0AAxzY2FsYS5uYXRpdmVzcQB+ALJxAH4AuHNxAH4AsnNxAH4AunNxAH4AsnVxAH4AlAAAAABzcQB+ALJ1cQB+AJQAAAAAc3EAfgCydXEAfgDBAAAABnNxAH4Aw3EAfgDGc3EAfgDHc3EAfgDKdXEAfgDNAAAAAnNxAH4Az3EAfgDScQB+ANRzcQB+AMNxAH4AxnNxAH4Ax3NxAH4AynVxAH4AzQAAAANzcQB+AM9xAH4A2nNxAH4Az3QAAmlvcQB+ANRzcQB+AMNxAH4A3nEAfgFIc3EAfgDDdAAGRXF1YWxzcQB+AUhzcQB+AMNxAH4A4nNxAH4Ax3NxAH4AynVxAH4AzQAAAANzcQB+AM9xAH4A2nNxAH4Az3EAfgDocQB+ANRzcQB+AMNxAH4A6nEAfgFIc3EAfgCWcQB+AKN1cQB+AKQAAAAAc3EAfgCmAHQAKWFnZ3JlZ2F0ZXNlcnZpY2UuQWdncmVnYXRlU2VydmljZVByb3RvY29sdXEAfgCpAAAAAH5xAH4Aq3QABk1vZHVsZXVxAH4ArwAAAAF0AAxzY2FsYS5uYXRpdmVzcQB+ALJxAH4AuHNxAH4AsnNxAH4AunNxAH4AsnVxAH4AlAAAAABzcQB+ALJ1cQB+AJQAAAAAc3EAfgCydXEAfgDBAAAAAnNxAH4Aw3EAfgDic3EAfgDHc3EAfgDKdXEAfgDNAAAAA3NxAH4Az3EAfgDac3EAfgDPcQB+AOhxAH4A1HNxAH4Aw3EAfgDqc3EAfgDHc3EAfgDKdXEAfgDNAAAAAnNxAH4Az3EAfgDScQB+ANRzcQB+AJZxAH4Ao3VxAH4ApAAAAABzcQB+AKYAdAAhYWdncmVnYXRlc2VydmljZS5BZ2dyZWdhdGVTZXJ2aWNldXEAfgCpAAAAAHEAfgCtdXEAfgCvAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4AsnEAfgC4c3EAfgCyc3EAfgC6c3EAfgCydXEAfgCUAAAAAHNxAH4AsnVxAH4AlAAAAABzcQB+ALJ1cQB+AMEAAAAEc3EAfgDDdAAMQWN0b3JMb2dnaW5nc3EAfgDHc3EAfgDKdXEAfgDNAAAAA3NxAH4Az3QABGFra2FzcQB+AM90AAVhY3RvcnEAfgDUc3EAfgDDdAAFQWN0b3JxAH4BjHNxAH4Aw3EAfgDic3EAfgDHc3EAfgDKdXEAfgDNAAAAA3NxAH4Az3EAfgDac3EAfgDPcQB+AOhxAH4A1HNxAH4Aw3EAfgDqc3EAfgDHc3EAfgDKdXEAfgDNAAAAAnNxAH4Az3EAfgDScQB+ANR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0ABBhZ2dyZWdhdGVzZXJ2aWNlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFqZX/rnXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0ADtGOlxWXGFzc2lnbm1lbnQtYWdncmVnYXRlLXNlcnZpY2VcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFbSYbeno1Gq/M8wYaB5Are9z9hj
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw9GV9EAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAARzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCLjQ6FdAAQZXhlY3V0aW9uQ29udGV4dHNxAH4AC+1F8l10AAxtYXRlcmlhbGl6ZXJzcQB+AAtlZbsLdAAHdGltZW91dHNxAH4AC8cm70h0AAZzeXN0ZW11cQB+AAkAAAAdc3EAfgALEENXAnQABm5vdGlmeXNxAH4AC/klSkB0AAR3YWl0c3EAfgALSo5H0XQADSRhc0luc3RhbmNlT2ZzcQB+AAu3KYWJdAAGZXF1YWxzc3EAfgALDeUrlXQADGFzSW5zdGFuY2VPZnNxAH4ACx13DoR0AA5leGVjdXRpb25TdGFydHNxAH4AC4x7QLd0AARob3N0c3EAfgALIo9qS3QADHN5bmNocm9uaXplZHNxAH4AC+hkEqx0AA0kaXNJbnN0YW5jZU9mc3EAfgALZrZ4x3QABmNvbmZpZ3NxAH4AC0Mg3qJ0AARtYWluc3EAfgALxZGgNXQACW5vdGlmeUFsbHNxAH4ACzyvNEF0AAxpc0luc3RhbmNlT2ZzcQB+AAsIqP2idAAEcG9ydHNxAH4AC7YYqBx0AAI9PXNxAH4AC1WULER0AAVjbG9uZXNxAH4AC67JD6R0AAYkaW5pdCRzcQB+AAvGCEFEdAAIdG9TdHJpbmdzcQB+AAuJNywJdAAEYXJnc3NxAH4AC7Ta+Gt0AAIhPXNxAH4ACzgrMTZ0AAVyb3V0ZXNxAH4ACxIvrYJ0AAhnZXRDbGFzc3NxAH4AC7Q793N0AAJuZXNxAH4AC33owOV0AAJlcXNxAH4ACyaNsCZ0ABhBZ2dyZWdhdGVTZXJ2aWNlTGF1bmNoZXJzcQB+AAvWG/nBdAALZGVsYXllZEluaXRzcQB+AAtBRXJGdAACIyNzcQB+AAu5OxbtdAAIZmluYWxpemVzcQB+AAu9ZAgvdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAApYWdncmVnYXRlc2VydmljZS5BZ2dyZWdhdGVTZXJ2aWNlTGF1bmNoZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAADdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AWUwACWluaGVyaXRlZHEAfgBZTAAHcGFyZW50c3EAfgBZeHEAfgB5c3EAfgB0dXEAfgBUAAAAAHNxAH4AdHVxAH4AVAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AWnEAfgBjdXEAfgBkAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4Ag3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB4dAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ1zcQB+AGYAcQB+ACt1cQB+AGkAAAAAc3EAfgCQdAAEVW5pdHEAfgCWdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4Ag3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AbHQABVBsYWlucQB+ADtzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHhzcQB+AJB0AAVBcnJheXEAfgCWdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJB0AAZTdHJpbmdzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCcdAAEamF2YXNxAH4AnHQABGxhbmdxAH4AoXNxAH4AdHVxAH4AuAAAAARzcQB+AJB0AANBcHBxAH4AlnNxAH4AkHQAC0RlbGF5ZWRJbml0cQB+AJZzcQB+AJB0AAZPYmplY3RxAH4AvHNxAH4AkHQAA0FueXEAfgCWdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAQYWdncmVnYXRlc2VydmljZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABamV/6511cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA7RjpcVlxhc3NpZ25tZW50LWFnZ3JlZ2F0ZS1zZXJ2aWNlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQkCtd/6ENtPMylufKjAb7WBza/hw==
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwR1uF6wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwo6dmwnQABm5vdGlmeXNxAH4ADAjSwBZ0AAtDb21tb25VdGlsc3NxAH4ADD0yAHx0AAR3YWl0c3EAfgAM30wWDnQADSRhc0luc3RhbmNlT2ZzcQB+AAxCanDBdAAGZXF1YWxzc3EAfgAMAE8/8HQADGFzSW5zdGFuY2VPZnNxAH4ADOiSOzt0AAxzeW5jaHJvbml6ZWRzcQB+AAxuS/nPdAANJGlzSW5zdGFuY2VPZnNxAH4ADIan8EN0AAlub3RpZnlBbGxzcQB+AAy8dgr/dAAMaXNJbnN0YW5jZU9mc3EAfgAMZ0hirXQAAj09c3EAfgAMStfOknQABWNsb25lc3EAfgAMLdM9XnQACHRvU3RyaW5nc3EAfgAMtSucxXQAAiE9c3EAfgAMzQVlOXQACGdldENsYXNzc3EAfgAMmUk+E3QAB2lzRW1wdHlzcQB+AAxThlqydAACbmVzcQB+AAxKHiSjdAACZXFzcQB+AAxU0/YPdAACIyNzcQB+AAzUAXQfdAAIZmluYWxpemVzcQB+AAxeVYfOdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAQdXRpbC5Db21tb25VdGlsc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF9zcQB+AFp1cQB+ADwAAAAAc3EAfgBadXEAfgA8AAAAAHNxAH4AWnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ad3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHNxAH4Aa3QAA0FueXNxAH4Ab3NxAH4AcnVxAH4AdQAAAAJzcQB+AHd0AAVzY2FsYXEAfgB+dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAEdXRpbHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABamV/6511cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA7RjpcVlxhc3NpZ25tZW50LWFnZ3JlZ2F0ZS1zZXJ2aWNlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT0X1uwPwhEcwM0xZzGsqVbwDorkg==
+external apis:
+0 items
+source infos:
+11 items
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionDouble.java -> 
+AAAAAAAAAAA=
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\AggregateActionLong.java -> 
+AAAAAAAAAAA=
+F:\V\assignment-aggregate-service\src\main\java\aggregateservice\actions\IAggregateAction.java -> 
+AAAAAAAAAAA=
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionBigDecimal.scala -> 
+AAAAAAAAAAA=
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionDouble.scala -> 
+AAAAAAAAAAA=
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperations\AggregateActionLong.scala -> 
+AAAAAAAAAAA=
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationservice\AggregateAction.scala -> 
+AAAAAAAAAAA=
+F:\V\assignment-aggregate-service\src\main\scala\aggregateoperationtailrecursion\AggregateActionLong.scala -> 
+AAAAAAAAAAA=
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateService.scala -> 
+AAAAAAAAAAA=
+F:\V\assignment-aggregate-service\src\main\scala\aggregateservice\AggregateServiceLauncher.scala -> 
+AAAAAAAAAAA=
+F:\V\assignment-aggregate-service\src\main\scala\util\CommonUtils.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABamV/6511cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAO0Y6XFZcYXNzaWdubWVudC1hZ2dyZWdhdGUtc2VydmljZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
